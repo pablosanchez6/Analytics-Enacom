@@ -3,7 +3,7 @@
 <p>
 
 <h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
+ <b>PROYECTO ENACOM</b>
 </h1>
  
 # <h1 align="center">**`Telecomunicaciones`**</h1>
@@ -78,7 +78,11 @@ En consecuencia, se propone encontrar localidades o partidos donde haya un alto 
 
 Estas estrategias están dirigidas tanto a ganar parte del mercado existente como a destacar localidades que aún no tienen acceso a internet, identificando mercados inexplorados y proponiendo incrementar la penetración de internet. En resumen, este análisis proporciona información valiosa y estratégica para la toma de decisiones en el sector de las telecomunicaciones y para la planificación de políticas públicas que busquen mejorar el acceso y la calidad de los servicios de Internet en Argentina.
 
+## Fuentes
 
+Datos Censales Indec
+
+Datos ENACOM https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
 
 ## Material de apoyo
 - ¡Todos los Workshops de esta etapa serán de gran utilidad para tener un proyecto exitoso!
